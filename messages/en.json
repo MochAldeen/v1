@@ -1,0 +1,66 @@
+{
+  "Index": {
+    "title": "Tech."
+  },
+  "Menu": {
+    "home": "Home",
+    "blog": "Blog",
+    "project": "Project",
+    "experience": "Experience",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "Hero": {
+    "title": "With Mochalden. Whatever the problem, just enjoy it!"
+  },
+  "About": {
+    "title": "Hello world!",
+    "title-1": "About me",
+    "im": "I'm",
+    "name": "Mochamad Aldi Akbar Suanda",
+    "desc": "I'm a Junior IT Support Staff with a background in Computer Engineering, focused on delivering efficient technology solutions and improving user experiences. I'm skilled in troubleshooting, hardware setup, and software support to resolve technical issues quickly. Key Skills: Problem-solving and technical support, User assistance and customer service, Hardware installation and maintenance, Ticket management and documentation. I believe technology should make things easier, not harder. I’m dedicated to providing fast, effective support and staying up-to-date with the latest tech trends. With strong communication and a proactive approach, I'm ready to enhance the IT experience for users."
+    
+  },
+  "Project":{
+    "desc": "Project Learning is sure to be updated as technology evolves."
+  },
+  "Bio":{
+    "desc": "I am a S1 graduate of Informatics Engineering from Universitas Perjuangan Tasikmalaya. Currently.",
+    "title-1": "Study",
+    "title-2": "Experience",
+    "title-3": "Domicile",
+    "contact": "Contact Me",
+    "name": "Mochamad Aldi Akbar Suanda",
+    "domision": "Jakarta, Indonesian",
+    "study-1" : "S1 Informatics Engineering at Universitas Perjuangan Tasikmalaya (2015 - 2021)",
+    "experience-1" : "Intership 1 year and 2 month (2023 - 2024) at Staff IT Support PT. ISTANA MITRA SENDANY, Jakarta, Indonesia",
+    "experience-2": "Internship 3 months (2024 - Present) at IT Support PT. REKA MULTI APTIKA, JAKARTA, Indonesia"
+  },
+  "Language":{
+    "title": "Select a language",
+    "lang": "Language",
+    "en": "English",
+    "id": "Indonesian",
+    "su": "Sundanese"
+  },
+  "Experience":{
+    "title": "Experience",
+    "year-1": "2024 - Present",
+    "year-2": "2023 - 2024",
+    "year-3": "2021",
+    "company-1": "PT. REKA MULTI APTIKA",
+    "company-2": "PT. ISTANA MITRA SENDANY",
+    "company-3": "PELATIHAN KEPALA SEKOLAH",
+    "position-1": "IT Support",
+    "position-2": "IT Support",
+    "position-3": "IT Operator",
+    "status-1": "Contract",
+    "status-2": "Contract",
+    "status-3": "Part-time"
+  },
+  "Study":{
+    "year-1": "2015 - 2021",
+    "campus-1": "Universitas Perjuangan Tasikmalaya",
+    "major-1": "D3 Informatics Engineering"
+  }
+}

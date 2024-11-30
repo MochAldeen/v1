@@ -1,0 +1,66 @@
+{
+  "Index": {
+    "title": "Teknologi."
+  },
+  "Menu": {
+    "home": "Beranda",
+    "blog": "Blog",
+    "project": "Project",
+    "experience": "Pengalaman",
+    "about": "Tentang",
+    "contact": "Kontak"
+  },
+  "Hero": {
+    "title": "Bersama Mochamad Aldi. Apapun Masalanya, dibawa Enjoy aja!"
+  },
+  "About": {
+    "title": "Halo Dunia!",
+    "title-1": "Tentang",
+    "im": "Saya",
+    "name": "Mochamad Aldi Akbar Suanda",
+    "desc": "IT Support dan Machine Learning Developer, Saya memiliki minat belajar dalam mengembangkan teknologi. memungkinkan saya untuk menangani seluruh siklus pengembangan perangkat lunak dari pengembangan tampilan hingga manajemen basis data dan logika server."
+  },
+  "Project": {
+    "desc": "Project Belajar yang pasti akan terus diperbarui mengikuti perkembangan teknologi."
+  },
+  "Language": {
+    "title": "Pilih bahasa",
+    "lang": "Bahasa",
+    "en": "Inggris (USA)",
+    "id": "Indonesia",
+    "su": "Sunda"
+  },
+  "Bio": {
+    "desc": "Saya adalah lulusan S1 Teknik Informatika dari Universitas Perjuangan Tasikmalaya. Saat ini, saya bekerja sebagai IT Support yang bertugas L1 monitoring SLA.",
+    "title-1": "Pendidikan",
+    "title-2": "Pengalaman Kerja",
+    "contact": "Hubungi Saya",
+    "title-3": "Domisili",
+    "name": "Mochamad Aldi Akbar Suanda",
+    "domision": "Jakarta, Indonesian",
+    "study-1" : "S1 Teknik Informatika Universitas Perjuangan Tasikmalaya (2015 - 2021)",
+    "experience-1" : "Kontrak 1 year and 2 month (2023 - 2024) at Staff IT Support PT. ISTANA MITRA SENDANY, Jakarta, Indonesia",
+    "experience-2": "Masa Percobaan 3 months (2024 - Present) at IT Support PT. REKA MULTI APTIKA, JAKARTA, Indonesia"
+  },
+  "Experience": {
+    "title": "Pengalaman Kerja",
+    "year-1": "2024 - Present",
+    "year-2": "2023 - 2024",
+    "year-3": "2021",
+    "company-1": "PT. REKA MULTI APTIKA",
+    "company-2": "PT. ISTANA MITRA SENDANY",
+    "company-3": "PELATIHAN KEPALA SEKOLAH",
+    "position-1": "IT Support",
+    "position-2": "IT Support",
+    "position-3": "IT Operator",
+    "status-1": "Contract",
+    "status-2": "Contract",
+    "status-3": "Part-time"
+    
+  },
+  "Study": {
+    "year-1": "2015 - 2021",
+    "campus-1": "Universitas Perjuangan Tasikmalaya",
+    "major-1": "S1 Teknik Informatika"
+  }
+}
