@@ -16,7 +16,7 @@ import Header from "@/components/Navbar/header";
 
 const inter = Inter({ subsets: ["latin"] });
 export const metadata: Metadata = {
-  title: "Mochamad Aldi Akbar Suanda | Portfolio",
+  title: "MochAlden | Portfolio",
   description: "Portfolio Moch Alden",
   icons: {
     icon: "/icon.png", // /public path
