@@ -33,13 +33,13 @@ export const NavItems = () => {
       active: isNavItemActive(pathname, `/${locale}/experience`),
       position: "top",
     },
-    {
-      name: "Projects",
-      href: `/${locale}/projects`,
-      icon: <Briefcase size={20} />,
-      active: isNavItemActive(pathname, `/${locale}/projects`),
-      position: "top",
-    },
+    // {
+    //  name: "Projects",
+    //  href: `/${locale}/projects`,
+    //  icon: <Briefcase size={20} />,
+    //  active: isNavItemActive(pathname, `/${locale}/projects`),
+    //  position: "top",
+    // },
     {
       name: "3D",
       href: `/${locale}/3d`,
