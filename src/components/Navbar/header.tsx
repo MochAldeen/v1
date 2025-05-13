@@ -49,7 +49,7 @@ export default function Header() {
             rel="noopener noreferrer"
           >
             <AvatarImage
-              src="https://media.licdn.com/dms/image/v2/C4E03AQFGef8it-WtlQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1636704971436?e=1738195200&v=beta&t=3lVoICdVMlTRXqGdIGqz9wRccjfVEV_dfAFvqKof4II"
+              src="https://drive.google.com/file/d/1XXtgp0JOU4SfBagYtOCmnMPQVYZlYEd_/view?usp=sharing"
               alt="@mochalden"
             />
             <AvatarFallback>aL</AvatarFallback>
