@@ -9,6 +9,7 @@ const nextConfig = {
       "aceternity.com",
       "spotify-github-profile.kittinanx.com",
       "github-readme-stats.vercel.app",
+      "media.licdn.com",
     ],
   },
   transpilePackages: ["three"],
