@@ -49,7 +49,7 @@ export default function Header() {
             rel="noopener noreferrer"
           >
             <AvatarImage
-              src="https://drive.google.com/file/d/1XXtgp0JOU4SfBagYtOCmnMPQVYZlYEd_/view"
+              src="..//public/images/aaaa.jpg"
               alt="@mochalden"
             />
             <AvatarFallback>aL</AvatarFallback>
