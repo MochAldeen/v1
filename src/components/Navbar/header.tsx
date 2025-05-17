@@ -46,7 +46,7 @@ export default function Header() {
           <a
             href="https://www.linkedin.com/in/mochaldiakbrs/"
             target="_blank"
-            rel="noopener noreferrer"
+            rel="https://drive.google.com/file/d/1XXtgp0JOU4SfBagYtOCmnMPQVYZlYEd_/view?usp=sharing"
           >
             <AvatarImage
               src="https://drive.google.com/file/d/1XXtgp0JOU4SfBagYtOCmnMPQVYZlYEd_/view?usp=sharing"
