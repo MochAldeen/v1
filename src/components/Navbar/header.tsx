@@ -46,10 +46,10 @@ export default function Header() {
           <a
             href="https://www.linkedin.com/in/mochaldiakbrs/"
             target="_blank"
-            rel="https://drive.google.com/file/d/1XXtgp0JOU4SfBagYtOCmnMPQVYZlYEd_/view?usp=sharing"
+            rel="noopener noreferrer"
           >
             <AvatarImage
-              src="https://drive.google.com/file/d/1XXtgp0JOU4SfBagYtOCmnMPQVYZlYEd_/view?usp=sharing"
+              src="https://drive.google.com/file/d/1XXtgp0JOU4SfBagYtOCmnMPQVYZlYEd_/view"
               alt="@mochalden"
             />
             <AvatarFallback>aL</AvatarFallback>
