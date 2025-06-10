@@ -48,10 +48,10 @@ export default function Header() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            <AvatarImage
-              src="..//public/images/aaaa.jpg"
-              alt="@mochalden"
+            <AvatarImage src="/images/aaaa.jpg" 
+            alt="@mochalden"
             />
+
             <AvatarFallback>aL</AvatarFallback>
           </a>
         </Avatar>
