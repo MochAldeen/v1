@@ -16,4 +16,9 @@ export const products = [
     link: "https://mochalden-v1.vercel.app/eng",
     thumbnail: "/images/ilustrasi.png",
   },
+  {
+    title: "React Cek Khodam",
+    link: "https://laroseflorist.netlify.app",Add commentMore actions
+    thumbnail: "/images/ilustrasi.png",
+  },
 ];
