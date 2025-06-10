@@ -11,14 +11,14 @@ export default function Project() {
   
 }
 export const products = [
- {
-    title: "Porto",
-    link: "https://mochalden-v1.vercel.app/eng",
+  {
+    title: "React Re-Film",
+    link: "https://mochalden-v1.vercel.app/en",
     thumbnail: "/images/ilustrasi.png",
   },
   {
     title: "React Cek Khodam",
-    link: "https://laroseflorist.netlify.app",Add commentMore actions
+    link: "https://laroseflorist.netlify.app",
     thumbnail: "/images/ilustrasi.png",
   },
 ];
