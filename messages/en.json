@@ -36,13 +36,13 @@
     "experience-1" : "Intership 1 year and 2 month (2023 - 2024) at Staff IT Support PT. ISTANA MITRA SENDANY, Jakarta, Indonesia",
     "experience-2": "Internship 3 months (2024 - Present) at IT Support PT. REKA MULTI APTIKA, JAKARTA, Indonesia"
   },
-  "Language":{
-    "title": "Select a language",
-    "lang": "Language",
-    "en": "English",
-    "id": "Indonesian",
-    "su": "Sundanese"
-  },
+  //"Language":{
+  //  "title": "Select a language",
+  //  "lang": "Language",
+  //  "en": "English",
+  //  "id": "Indonesian",
+  //  "su": "Sundanese"
+  //},
   "Experience":{
     "title": "Experience",
     "year-1": "2024 - Present",
@@ -56,11 +56,11 @@
     "position-3": "IT Operator",
     "status-1": "Contract",
     "status-2": "Contract",
-    "status-3": "Part-time"
+    "status-3": "Contract"
   },
   "Study":{
     "year-1": "2015 - 2021",
     "campus-1": "Universitas Perjuangan Tasikmalaya",
-    "major-1": "D3 Informatics Engineering"
+    "major-1": "S1 Informatics Engineering"
   }
 }
