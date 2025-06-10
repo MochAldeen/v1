@@ -47,7 +47,7 @@ export default function Page() {
                 <Card className="px-4 py-4">
                   <div className="flex flex-row gap-4">
                     <Avatar className="w-24 h-24">
-                      <AvatarImage src="https://drive.google.com/file/d/1XXtgp0JOU4SfBagYtOCmnMPQVYZlYEd_/view?usp=sharing"/>
+                      <AvatarImage src="/images/aaaa.jpg"/>
                       <AvatarFallback>aL</AvatarFallback>
                     </Avatar>
 
