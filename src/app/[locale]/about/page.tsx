@@ -47,7 +47,7 @@ export default function Page() {
                 <Card className="px-4 py-4">
                   <div className="flex flex-row gap-4">
                     <Avatar className="w-24 h-24">
-                      <AvatarImage src="/images/aaaa.jpg"/>
+                      <AvatarImage src="https://instagram.fcgk6-2.fna.fbcdn.net/v/t51.2885-19/563516317_18534746713047901_1204885273751484239_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45MjguYzIifQ&_nc_ht=instagram.fcgk6-2.fna.fbcdn.net&_nc_cat=101&_nc_oc=Q6cZ2QEW57z80j4Nkj6owceIdG4sBF10vfGb5BZgF7_WrjTvyzw40aSVfgRBTAuzAQcRANwyJ-Kb4LrM6tpIDzy1cgZB&_nc_ohc=TFaogQIU36IQ7kNvwHX77gI&_nc_gid=USVsTXn6LGCqU-iynV6rzA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfdsK_lyhJ7SXmdE0O2EgiH-gKqPvOmPdNQNaX76GQVM1Q&oe=68FFCA38&_nc_sid=8b3546" />
                       <AvatarFallback>aL</AvatarFallback>
                     </Avatar>
 
