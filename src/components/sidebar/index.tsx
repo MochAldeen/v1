@@ -74,7 +74,7 @@ export default function SideNav() {
                 >
                   <Avatar className="w-10 h-10">
                     <AvatarImage
-                      src="https://media.licdn.com/dms/image/v2/C4E03AQFGef8it-WtlQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1636704971436?e=1752710400&v=beta&t=xq4UkjvIhneRRPjJimMo2DOYXvw_u8KIlqLxgE-UAy4"
+                      src="public\images\black.jpg"
                       alt="@mochalden"
                     />
                     <AvatarFallback>aL</AvatarFallback>
