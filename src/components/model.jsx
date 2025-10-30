@@ -82,7 +82,7 @@ function Model(props) {
                     >
 
                   <AvatarImage
-                  src="/images/aaaa.jpg"
+                  src="public\images\black.jpg"
                   alt="@mochalden"
                 />
                 <AvatarFallback>aL</AvatarFallback>
