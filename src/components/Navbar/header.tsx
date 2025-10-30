@@ -49,7 +49,7 @@ export default function Header() {
             rel="noopener noreferrer"
           >
             <AvatarImage
-              src="/images/aaaa.jpg"
+              src="public\images\black.jpg"
               alt="@mochalden"
               className="h-full w-full object-cover"
             />
